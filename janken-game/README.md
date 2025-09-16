@@ -11,3 +11,4 @@
 ### 改善点
 - 現在のままだとグー・チョキ・パー以外の数字を入力した場合、エラーで止まってしまう。そのため、エラー処理を追加して、正しい入力のみを受け入れるようにしたい。
 - 終了しますか？(Y/N) でN以外を入れてもループしてしまう為、YかNのみを指定する処理を加えたい。
+<img width="432" height="224" alt="janken-game-result" src="https://github.com/user-attachments/assets/7a267f57-a76f-4dd1-9fb3-1e2c0d3b03ce" />
