@@ -1,7 +1,7 @@
 #coding:utf-8
 import random
 
-f = open('test4.txt', 'w')
+f = open('janken-result.txt', 'w')
 
 hands = {1:"グー", 2:"チョキ", 3:"パー"}
 win = 0
@@ -45,4 +45,5 @@ f.write("負けた回数は" + str(lose) +"回です。\n")
 f.write("あいこの回数は" + str(draw) +"回です。")
 
 f.close()
+
 
