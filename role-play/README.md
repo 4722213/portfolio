@@ -19,6 +19,7 @@
 ### 改善点
 - もっとメゾットを追加して行動を増やすことで、ゲームのようなプログラムを作りたい。
 
+<img width="238" height="41" alt="スクリーンショット (30)" src="https://github.com/user-attachments/assets/21aed161-f107-46dc-8e2a-9e7b60f69d16" />
 
 
 
